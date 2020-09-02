@@ -5,13 +5,13 @@
     <description>Recent content in wanghy on wanghy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2020</title>
       <link>https://Xionwanghy.github.io/post/2020/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://Xionwanghy.github.io/post/2020/</guid>
       <description>&lt;p&gt;日记&lt;/p&gt;
@@ -232,8 +232,9 @@ $$
 $$
 ​        2.再证矩阵满足皮克定理。&lt;/p&gt;
 
-&lt;p&gt;​         左边界点对应右下角正方形，下边界点对应右上角正方形，显然k/2-1正好是左边界和下边界所有小正方形个数和，然后再将每个内部点对应它右上角的正方形，正好是剩下的n个小正方形.
-​       3.证所有直角三角形满足皮克定理。&lt;/p&gt;
+&lt;p&gt;​         左边界点对应右下角正方形，下边界点对应右上角正方形，显然k/2-1正好是左边界和下边界所有小正方形个数和，然后再将每个内部点对应它右上角的正方形，正好是剩下的n个小正方形.&lt;/p&gt;
+
+&lt;p&gt;​       3.证所有直角三角形满足皮克定理。&lt;/p&gt;
 
 &lt;p&gt;​       显然，直角三角形的面积等于其对应矩阵的一半，即:
 $$
@@ -269,24 +270,41 @@ $$
 
 &lt;h3 id=&#34;7-22-关于养生&#34;&gt;7.22  关于养生&lt;/h3&gt;
 
-&lt;p&gt;​        从去年考完研开始，可能是之前每天坐得太久的缘故，一个姿势保持久了腰上某个点就会开始酸痛，之前一直觉得没什么事，一直持续到今天，被妈连哄带骗拖去照了CT，才知道原来腰椎间盘轻度膨出了，还有伴着一些其他神奇的病症。医生表示没啥大事，大家都会有，只是这个年纪的不常见，并叮嘱我现在要好好注意，不然老了会很麻烦。无语归无语，回去查了一些资料，以后还是得好好保护人体消耗品。
-1.端正坐姿站姿，歪着容易压迫关节间缝隙，造成膨出或突出。
-2.活化神经肌肉
-◢单侧卷腹：平躺在垫上，一只腿伸直、一只腿弯曲。双手放在背部凹陷处，做动作过程中始终保持手被后背压在地上的姿势。通过收紧腹部，将肩胛骨抬离地面30度，再缓慢回到起始位置。
-◢侧桥侧躺：将支撑侧的手肘垂直放在肩关节正下方，避免肩部压力过大。腿部伸直，脚尖回勾。
-◢超人式：起始位置是四足跪姿，手肘在肩关节正下方，膝盖在髋关节正下方。保持腹部与臀部收紧，维持姿势的同时保证正常的呼吸。之后抬起对侧的手和腿，与背部水平的高度。
-3.呼吸（深呼吸，激活多裂肌）
-拉伸大腿
-加强核心
-松解髋关节（脚掌相对，膝盖尽量贴地）
-重复2中动作
-4.拉伸腰部和下肢：体侧拉伸
-拉伸髂腰肌：单腿蹲体侧
-大腿前侧拉伸
-臀部拉伸：单腿盘起，上半身前屈
-平板支撑，平地卷腹（腰不离开地面），原地转腰，靠墙静蹲。
-5.仰卧起坐和悬空半躺很伤腰椎。
-分享给室友之后，金表示自己也时常腰疼，但十分抗拒去医院，总觉得一检查哪都是问题。我表示理解，毕竟拿片的时候也有些许手抖。想到我们这一代人或许因为生活习惯饮食习惯的改变，平均身体素质明显不如上一代人，至少我身边的朋友一身是病的不在少数。不过锻炼应该确实是有效的，四年来也没见硕爷有个小病小痛。以后请好好锻炼好好学习，拜托了。&lt;/p&gt;
+&lt;p&gt;​        从去年考完研开始，可能是之前每天坐得太久的缘故，一个姿势保持久了腰上某个点就会开始酸痛，之前一直觉得没什么事，一直持续到今天，被妈连哄带骗拖去照了CT，才知道原来腰椎间盘轻度膨出了，还有伴着一些其他神奇的病症。医生表示没啥大事，大家都会有，只是这个年纪的不常见，并叮嘱我现在要好好注意，不然老了会很麻烦。无语归无语，回去查了一些资料，以后还是得好好保护人体消耗品。&lt;/p&gt;
+
+&lt;p&gt;1.端正坐姿站姿，歪着容易压迫关节间缝隙，造成膨出或突出。&lt;/p&gt;
+
+&lt;p&gt;2.活化神经肌肉&lt;/p&gt;
+
+&lt;p&gt;◢单侧卷腹：平躺在垫上，一只腿伸直、一只腿弯曲。双手放在背部凹陷处，做动作过程中始终保持手被后背压在地上的姿势。通过收紧腹部，将肩胛骨抬离地面30度，再缓慢回到起始位置。&lt;/p&gt;
+
+&lt;p&gt;◢侧桥侧躺：将支撑侧的手肘垂直放在肩关节正下方，避免肩部压力过大。腿部伸直，脚尖回勾。&lt;/p&gt;
+
+&lt;p&gt;◢超人式：起始位置是四足跪姿，手肘在肩关节正下方，膝盖在髋关节正下方。保持腹部与臀部收紧，维持姿势的同时保证正常的呼吸。之后抬起对侧的手和腿，与背部水平的高度。&lt;/p&gt;
+
+&lt;p&gt;3.呼吸（深呼吸，激活多裂肌）&lt;/p&gt;
+
+&lt;p&gt;拉伸大腿&lt;/p&gt;
+
+&lt;p&gt;加强核心&lt;/p&gt;
+
+&lt;p&gt;松解髋关节（脚掌相对，膝盖尽量贴地）&lt;/p&gt;
+
+&lt;p&gt;重复2中动作&lt;/p&gt;
+
+&lt;p&gt;4.拉伸腰部和下肢：体侧拉伸&lt;/p&gt;
+
+&lt;p&gt;拉伸髂腰肌：单腿蹲体侧&lt;/p&gt;
+
+&lt;p&gt;大腿前侧拉伸&lt;/p&gt;
+
+&lt;p&gt;臀部拉伸：单腿盘起，上半身前屈&lt;/p&gt;
+
+&lt;p&gt;平板支撑，平地卷腹（腰不离开地面），原地转腰，靠墙静蹲。&lt;/p&gt;
+
+&lt;p&gt;5.仰卧起坐和悬空半躺很伤腰椎。&lt;/p&gt;
+
+&lt;p&gt;分享给室友之后，金表示自己也时常腰疼，但十分抗拒去医院，总觉得一检查哪都是问题。我表示理解，毕竟拿片的时候也有些许手抖。想到我们这一代人或许因为生活习惯饮食习惯的改变，平均身体素质明显不如上一代人，至少我身边的朋友一身是病的不在少数。不过锻炼应该确实是有效的，四年来也没见硕爷有个小病小痛。以后请好好锻炼好好学习，拜托了。&lt;/p&gt;
 
 &lt;h3 id=&#34;7-23-老年活动&#34;&gt;7.23 老年活动&lt;/h3&gt;
 
@@ -306,13 +324,39 @@ $$
 
 &lt;h3 id=&#34;7-27-牛奶&#34;&gt;7.27  牛奶&lt;/h3&gt;
 
-&lt;p&gt;​         去买牛奶，拿了一提来思尓，店员过来向我极力推荐正在做活动的蒙牛。我表示觉得来思尓奶味比较重，店员认为这是一种偏见，并拿出了两个牌子的销量向我证明。内心：？全国销售的牌子和省内牌子的销量怎么比，云南才多少人啊。店员：这是大牌子啊，来思尓欧亚都是小杂牌子。内心：？拒绝拉踩，而且你不知道他家搞垄断吗。于是，我向她表示牛奶省内的牌子其实挺好的，而且我喜欢奶味重的牛奶balabala。而后想想，自己可能最近确实太久没和人说话了，实在没什么好值得争的，人家又没逼着买，都是为了生活。另外，一想到后续可能会被店员吐槽，心里更不是滋味了。长点记性吧。&lt;/p&gt;</description>
+&lt;p&gt;​         去买牛奶，拿了一提来思尓，店员过来向我极力推荐正在做活动的蒙牛。我表示觉得来思尓奶味比较重，店员认为这是一种偏见，并拿出了两个牌子的销量向我证明。内心：？全国销售的牌子和省内牌子的销量怎么比，云南才多少人啊。店员：这是大牌子啊，来思尓欧亚都是小杂牌子。内心：？拒绝拉踩，而且你不知道他家搞垄断吗。于是，我向她表示牛奶省内的牌子其实挺好的，而且我喜欢奶味重的牛奶balabala。而后想想，自己可能最近确实太久没和人说话了，实在没什么好值得争的，人家又没逼着买，都是为了生活。另外，一想到后续可能会被店员吐槽，心里更不是滋味了。长点记性吧。&lt;/p&gt;
+
+&lt;h3 id=&#34;8-1-关于这街&#34;&gt;8.1  关于这街&lt;/h3&gt;
+
+&lt;p&gt;​          托痛经的福，又度过一个空虚的下午。翻出最新一季这街，新一季的队长感觉比前两季更有看头，虽然临时被叫来顶替小猪的钟队长让人一时摸不着头脑，但好在足够努力，居然也把街舞各个种类的动作学了个七七八八。私以为这季的队长比前两季更love&amp;amp;peace，尤其队长battle时王嘉尔主动支援体力不支的钟汉良，而钟拖着四十多岁的身体居然也用全街舞的动作撑下四轮，太不容易了，有被感动到。大概是因为Viho和Franklin，一直很关注跳popping和urban的选手，然而这季好像没看到几个跳urban的选手，跳popping的好像也只有腾仔比较有看头，然而身上还是一股子Viho的味道，一看果然舞佳舞的学生。不过这季居然看到两个跳Jazz的男生，跳Jazz和waccking的男生太好分辨了，一看很有姐妹气质的，大概就逃不脱这两个舞种了。感觉街舞要跳得吸引人很难，只要是大概能分清各个舞种的人，再去看绝大部分的人翻来覆去就那几个动作，看多了视觉疲劳，还是民族舞现代舞和街舞的合作舞台好看，希望这次不但有朱洁静还能有唐诗逸。除去坑爹的剪辑，陆伟值得表扬，第二季被骂镜头乱晃，这季有明显改善，而且很喜欢队长大秀从黑夜跳到白天的设计，赛制上这季也更有人情味，不愧是撑到最后的街舞选秀节目，不过还是拜托队长跳舞的时候不要老是怼脸拍。另外，会讲故事的舞者太珍贵了，想起前两季亮亮的精神病人、朱洁静的暮光之城、马小龙的小鸟和噩梦，这季又可以期待一下杨文韬cici盖盖苏恋雅。《囍》再一次让我感受到悲剧的感染力，表演前杨文韬对cici耳语：我爱你，让我想起黄磊说自己每次演出《暗恋桃花源》谢幕的时候都要拥抱孙莉，因为入戏太深，离别感太真实，而这个故事又是如此遗憾，让人感慨人类在命运面前实在渺小。&lt;/p&gt;
+
+&lt;h3 id=&#34;8-4-眼罩&#34;&gt;8.4  眼罩&lt;/h3&gt;
+
+&lt;p&gt;​         陪伴了我八年，甚至已经习惯到不会刻意去想你的存在，却在今天午休的时候，突然发现你不见了。翻遍了被子枕头下面、衣服下面、桌子上、抽屉里，可在这一览无余的房间里，找不到一丝你的踪迹。怎么就不见了呢，昨天午休的时候不是还在的吗？我清楚地记得自己起床以后顺手把你放在枕头下面的啊？是我拿衣服叠被子的时候不小心把你扯掉了吗？还是你又藏在什么犄角旮旯里了？快回来吧，没有你的午觉真是辗转反侧难以入眠，这周要是找不到你的话，我只能忍痛去寻找一个新伙伴了。唉&lt;/p&gt;
+
+&lt;h3 id=&#34;8-6-作文&#34;&gt;8.6  作文&lt;/h3&gt;
+
+&lt;p&gt;​        前两天浙江的一篇高考作文引起了蛮大争议，想到自己是改卷老师的话，看到这样的作文不说给满分，应该还是会给到一个高分吧。虽说语言是在朝着更通俗易懂的大趋势发展的，不能让形式对内容起了反作用，但能写出这样的文章，至少语言文字能力和阅读储备毋庸置疑是优秀的，至于行文思路，顶多能说是与形式相比有些相形见绌了，也是完全合格的，相信好好引导的话很有发展潜力。给了满分的老师说的话很中肯：并不是鼓励这种形式的写作，但鼓励大家尝试不同的写作方式。在票圈看到有人觉得他自相矛盾，而我觉得一个好的写作者的确不应当圉于最普通的写作方式，推崇某种写作方式和鼓励尝试多种写作方式不能同一而论，一个不太恰当的例子，一个好的画家比如达芬奇，画曲高和寡的抽象画并非他画不好普通的画，恰恰相反，他绘画的功底极好。私以为这些形式虽不推崇，也不能完全丢了。想起高中刘那篇轰动年级的文言文满分作文，大概语文组的老师也是这样想的吧。不过满分作文和高分作文带来的影响力确实不同，要是引得大家争相模仿好像又有点偏离原本的目的了。&lt;/p&gt;
+
+&lt;p&gt;​        最近看到许多江南百景图的赚钱建模最优解，想想又觉得这些都是建立在把佛性游戏玩成修仙游戏的基础之上的，好像不太适用于我这样的养老玩家。怎么没有太太画白娘子呢&amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;8-24-网络&#34;&gt;8.24  网络&lt;/h3&gt;
+
+&lt;p&gt;​        最近在网上看到了许多用很深的恶意揣测和中伤别人的言论。网络为网民们戴上一层面具，也让某一部分人最深处的恶的人性暴露出来，对别人的生活指手画脚，对别人的成就嗤之以鼻。虽说生而为人，有些劣根性的东西是根深蒂固的，是天性，但不懂得明辨是非克制某些行为的话人与畜生有什么区别呢。&lt;/p&gt;
+
+&lt;p&gt;​        另外，看到电视剧里某些反派，即使知道是演戏还是让人恨得牙痒痒，也有很多演员是因为演了很不讨喜的角色，在现实中也让人一看到那张脸就喜欢不起来。但转念一想，这群人在现实中反而是处于弱势地位的那群人，所以才会分到不讨喜的角色，在剧里百般欺辱主角们，在现实中却不得对他们低头，想想也挺讽刺的。&lt;/p&gt;
+
+&lt;p&gt;​        前段时间看了一点郎朗和杨丽萍上的一期综艺，两位大艺术家很是接地气，也很平易近人。杨丽萍追求的东西曲高和寡，整个人看上去也超脱世俗，加上好几次直接在节目里出言怼人，一直给了我一种很难以相处的错觉。但在综艺里和大家聊天也就是话家常，节目组让做游戏她也很开心地一起参与。吴彤问她怎么看之前有网友评价她不结婚不生孩子的事情，她也没吐槽网民们堪忧的眼界，而是说天伦之乐有很多种，别人可以觉得儿孙满堂是天伦之乐，也可以觉得结婚生孩子自己的人生才完整，对她来说一个作品、一只鸟儿都可以是她的孩子，这是她的天伦之乐。私以为不用自己的价值尺度去评价和要求别人是很难得的品质。&lt;/p&gt;
+
+&lt;h3 id=&#34;9-2-舆论&#34;&gt;9.2  舆论&lt;/h3&gt;
+
+&lt;p&gt;​        许多事件在社交网络上被曝出并不断发酵，但大部分时候曝出的部分都是单方面的阐述，大家的思维被整个带着跑。我痛恨那些为一己私欲伤害他人的人，也痛恨那些消费大家同情心的人。另一方面，这样的事情出现多了以后，大家或许会变得越来越理智，但会不会也变得越来越不敢为之发声？乱站队不分青红皂白开始网暴是可怕，但是真正有需要的人求助以后却没人再愿意为之发声岂不是更让人心凉？虽然一批又一批新的网民进来这个环境，大概率是第一种情况是常态。唉，信息化确实给人们生活各方面带来方便了，但究竟人们的思想是获得的更多了还是被控制得更多了呢。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>统计学笔记（基于刘扬 统计学）</title>
       <link>https://Xionwanghy.github.io/post/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://Xionwanghy.github.io/post/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E7%AC%94%E8%AE%B0/</guid>
       <description>&lt;h3 id=&#34;目录&#34;&gt;目录&lt;/h3&gt;
@@ -1081,7 +1125,7 @@ $$&lt;/p&gt;
 
 &lt;p&gt;（1）两个总体正态 or 两个总体非正态但为大样本（n≥30）
 $$
-z=\frac{(\bar x_1-\bar x_2)-(\mu_1-\mu_2)}{\sqrt{\frac{\sigma_1^2}{n_1}+\frac{\sigma_1^2}{n_1}}}\sim N(0,1)
+z=\frac{(\bar x_1-\bar x_2)-(\mu_1-\mu_2)}{\sqrt{\frac{\sigma_1^2}{n_1}+\frac{\sigma_2^2}{n_2}}}\sim N(0,1)
 $$
 总体均值差在1-α置信水平下的置信区间为：
 $$
@@ -1206,7 +1250,7 @@ $$
 
 &lt;p&gt;（2）简单随机抽样、不重复抽样。&lt;/p&gt;
 
-&lt;p&gt;不重复抽样的必要样本容量比样本容量小一些，用n0表示仇富仇央视的样本容量，则不重复抽样时的必要样本容量n为：
+&lt;p&gt;不重复抽样的必要样本容量比样本容量小一些，用n0表示重复抽样时的样本容量，则不重复抽样时的必要样本容量n为：
 $$
 n=\frac{n_0}{1+\frac{n_0}{N}}
 $$&lt;/p&gt;
@@ -1295,7 +1339,952 @@ p=P(t\geq t&lt;em&gt;{obs})
 p=P(t \leq t&lt;/em&gt;{obs})
 $$&lt;/p&gt;
 
-&lt;p&gt;图形表示及软件实现（刘扬P73-77）&lt;/p&gt;</description>
+&lt;p&gt;图形表示及软件实现（刘扬P73-77）&lt;/p&gt;
+
+&lt;h3 id=&#34;第五章-方差分析-anova-对照数理统计8-2-多元统计分析第四章&#34;&gt;第五章  方差分析（ANOVA）（对照数理统计8.2，多元统计分析第四章）&lt;/h3&gt;
+
+&lt;h4 id=&#34;1-适用方差分析的情境&#34;&gt;1. 适用方差分析的情境&lt;/h4&gt;
+
+&lt;p&gt;t检验可以检验两个独立样本对应的总体均值是否相等，而对于多个总体，用t检验两两对比需要进行多次，若要求每一次检验中都不犯第一类错误，则整体检验中不犯第一类错误的概率降低。&lt;/p&gt;
+
+&lt;p&gt;而方差分析在比较多个总体均值的情况下，计算量较小，且犯第一类错误的概率保持不变。&lt;/p&gt;
+
+&lt;h4 id=&#34;2-方差分析有关概念&#34;&gt;2.方差分析有关概念&lt;/h4&gt;
+
+&lt;p&gt;方差分析一般用来分析一个定量变量与多个定性变量之间的关系，如大学生毕业起薪（因变量）与性别、专业（自变量）等的关系。&lt;/p&gt;
+
+&lt;p&gt;方差分析的数据一般是经过专门设计而收集的实验数据，使用观察数据的话需要满足假设条件。&lt;/p&gt;
+
+&lt;h5 id=&#34;分类&#34;&gt;分类&lt;/h5&gt;
+
+&lt;p&gt;单因素方差分析&amp;amp;多因素方差分析：根据自变量的数量&lt;/p&gt;
+
+&lt;p&gt;固定效应模型&amp;amp;随机效应模型：固定效应模型中因素所有水平都是由实验者审慎安排而不是随机选择，而随机效应模型中因素的水平是从多个可能水平中随机选择的。&lt;/p&gt;
+
+&lt;h4 id=&#34;3-方差分析中的基本假设&#34;&gt;3.方差分析中的基本假设&lt;/h4&gt;
+
+&lt;p&gt;（1）各个总体中因变量都服从正态分布。&lt;/p&gt;
+
+&lt;p&gt;（2）各个总体中因变量的方差都相等。&lt;/p&gt;
+
+&lt;p&gt;（3）各个观测值之间是相互独立的。&lt;/p&gt;
+
+&lt;h4 id=&#34;4-方差分析中假设条件的检验方法&#34;&gt;4.方差分析中假设条件的检验方法&lt;/h4&gt;
+
+&lt;h5 id=&#34;正态性检验&#34;&gt;正态性检验&lt;/h5&gt;
+
+&lt;p&gt;对按因素分组后各组数据的检验&lt;/p&gt;
+
+&lt;p&gt;（1）观察各组数据的直方图、Q-Q图。&lt;/p&gt;
+
+&lt;p&gt;（2）K-S检验（样本经验分布与给定分布比较，用于标准正态检验，可直接用软件实现）&lt;/p&gt;
+
+&lt;h5 id=&#34;方差齐次检验&#34;&gt;方差齐次检验&lt;/h5&gt;
+
+&lt;p&gt;检验各总体方差是否相等&lt;/p&gt;
+
+&lt;p&gt;（1）计算各组数据的标准差，若最大值与最小值的比值小于2：1（方差的话是4：1），则可以认为数据同方差。&lt;/p&gt;
+
+&lt;p&gt;（2）Levene检验&lt;/p&gt;
+
+&lt;h5 id=&#34;对基本假设的说明&#34;&gt;对基本假设的说明&lt;/h5&gt;
+
+&lt;p&gt;（1）如果样本量很大，也可以允许非正态情况。&lt;/p&gt;
+
+&lt;p&gt;（2）独立性假设一般直接通过对数据搜集过程的控制来保证。&lt;/p&gt;
+
+&lt;p&gt;（3）若数据严重偏离前两个假设，可以对数据先进行变换，如开方、取对数等，或使用非参数的方法来比较均值（如Kruskal-Wallis检验，检验两个以上样本来自统一概率分布的一种非参数方法）&lt;/p&gt;
+
+&lt;h4 id=&#34;5-单因素方差分析&#34;&gt;5.单因素方差分析&lt;/h4&gt;
+
+&lt;p&gt;根据分别来自r个等方差正态总体的数据检验这些总体的均值是否相等。&lt;/p&gt;
+
+&lt;p&gt;因素A共r个水平，每个水平的样本容量为m，观测值为xij，i为因素水平。&lt;/p&gt;
+
+&lt;p&gt;总离差平方和（总变异）SST（Sum of squares for total）为：
+$$
+SST=\sum&lt;em&gt;{i=1}^r\sum&lt;/em&gt;{j=1}^m(x_{ij}-\bar{\bar x})^2
+$$
+（所有观测值减去总均值的平方和）&lt;/p&gt;
+
+&lt;p&gt;组间离差平方和SSA（sum of squares for factor A），可解释的变异为：
+$$
+SSA=\sum_{i=1}^rm(\bar x_i-\bar{\bar x})^2
+$$
+（组均值与总均值之差的平方和，不要忘记乘m）&lt;/p&gt;
+
+&lt;p&gt;组内离差平方和SSE（sum of squares for error），与自变量无关的不可控因素引起的变异：
+$$
+SSE=\sum&lt;em&gt;{i=1}^r\sum&lt;/em&gt;{j=1}^m(x_{ij}-\bar x_i)^2
+$$
+（每个观测值与对应组均值的平方和）&lt;/p&gt;
+
+&lt;p&gt;满足关系：
+$$
+SST=SSA+SSE
+$$&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;变异来源&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;离差平方和&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;自由度df&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;均方&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;F值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;组间&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SSA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;r-1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MSA=SSA/(r-1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MSA/MSE&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;组内&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SSE&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;n-r&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MSE=SSE/(n-r)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;总变异&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SST&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;n-1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&#34;6-方差分析的步骤&#34;&gt;6.方差分析的步骤&lt;/h4&gt;
+
+&lt;p&gt;（1）检验数据是否符合方差分析的假设条件&lt;/p&gt;
+
+&lt;p&gt;（2）提出零假设和备择假设。对于单因素方差分析：&lt;/p&gt;
+
+&lt;p&gt;零假设：各总体均值没有显著差异&lt;/p&gt;
+
+&lt;p&gt;备择假设：至少有两个均值不相等。&lt;/p&gt;
+
+&lt;p&gt;（3）计算F值和p值&lt;/p&gt;
+
+&lt;p&gt;（4）根据决策规则得出结论。&lt;/p&gt;
+
+&lt;p&gt;对F值，当计算值大于临界值时拒绝原假设。&lt;/p&gt;
+
+&lt;p&gt;对p值，当p&amp;lt;α时拒绝原假设。&lt;/p&gt;
+
+&lt;h4 id=&#34;7-方差分析的多重分析&#34;&gt;7.方差分析的多重分析&lt;/h4&gt;
+
+&lt;p&gt;当零假设被拒绝时，要进一步检验哪些均值之间有显著差异，还需要多重比较，称为事后检验。&lt;/p&gt;
+
+&lt;p&gt;可以使用Fisher最小显著差异方法（Least Significant Difference，LSD），Tukey诚实显著差异方法（Honestly Significant Difference，HSD）等&lt;/p&gt;
+
+&lt;h5 id=&#34;lsd方法&#34;&gt;LSD方法&lt;/h5&gt;
+
+&lt;p&gt;（1）H0：μi = μj ，H1：μi ≠ μj&lt;/p&gt;
+
+&lt;p&gt;（2）计算检验统计量：
+$$
+t=\frac{\bar x_i-\bar x_j}{\sqrt{MSE(\frac{1}{n_i}+\frac{1}{n&lt;em&gt;j})}}
+$$
+（3）决策：
+$$
+|t|&amp;gt;t&lt;/em&gt;{\alpha/2} ~~or ~~p&amp;lt;\alpha
+$$
+拒绝H0;&lt;/p&gt;
+
+&lt;p&gt;或者0不包含在置信区间：
+$$
+(\bar x_i-\bar x&lt;em&gt;j)\pm t&lt;/em&gt;{\alpha/2}\sqrt{MSE(\frac{1}{n_i}+\frac{1}{n_j})}
+$$
+拒绝H0。&lt;/p&gt;
+
+&lt;p&gt;其中t的临界值自由度为n-r(对应MSE组内方差自由度)&lt;/p&gt;
+
+&lt;h4 id=&#34;8-双因素方差分析-参考贾俊平p221&#34;&gt;8.双因素方差分析(参考贾俊平P221)&lt;/h4&gt;
+
+&lt;p&gt;方差分析可以分析因素之间的交互作用，也就是可以分析一个因素对因变量的影响受另一个因素的影响。&lt;/p&gt;
+
+&lt;h5 id=&#34;无交互作用的双因素方差分析&#34;&gt;无交互作用的双因素方差分析&lt;/h5&gt;
+
+&lt;p&gt;假设两个因素分别为A、B，分别有r、s个不同水平，每组试验重复m次。&lt;/p&gt;
+
+&lt;p&gt;定义：
+$$
+\bar{\bar X}=\frac{1}{rsm}\sum\sum\sum X_{ijk}
+$$&lt;/p&gt;
+
+&lt;p&gt;$$
+\bar X&lt;em&gt;{ij}=\frac{1}{m}\sum&lt;/em&gt;{k=1}^mX_{ijk}
+$$&lt;/p&gt;
+
+&lt;p&gt;$$
+\bar X&lt;em&gt;{i ~\cdot}=\frac{1}{s}\sum&lt;/em&gt;{j=1}^s\bar X_{ij}
+$$&lt;/p&gt;
+
+&lt;p&gt;$$
+\bar X&lt;em&gt;{\cdot ~j}=\frac{1}{r}\sum&lt;/em&gt;{i=1}^{r}\bar X_{ij}
+$$&lt;/p&gt;
+
+&lt;p&gt;（此处刘扬书可能有误）&lt;/p&gt;
+
+&lt;p&gt;分解离差平方和为：
+$$
+SST=\sum&lt;em&gt;{i=1}^{r}\sum&lt;/em&gt;{j=1}^{s}\sum&lt;em&gt;{k=1}^{m}(X&lt;/em&gt;{ijk}-\bar{\bar X})^2
+&lt;br /&gt;
+~~~~~=SSA+SSB+SSE
+$$
+其中：
+$$
+SSA=sm\sum&lt;em&gt;{i=1}^r(\bar X&lt;/em&gt;{i~\cdot}-\bar{\bar X})^2
+$$&lt;/p&gt;
+
+&lt;p&gt;$$
+SSB=sm\sum&lt;em&gt;{j=1}^s(\bar X&lt;/em&gt;{\cdot ~j}-\bar{\bar X})^2
+$$&lt;/p&gt;
+
+&lt;p&gt;$$
+SSE=\sum&lt;em&gt;{i=1}^r\sum&lt;/em&gt;{j=1}^s\sum&lt;em&gt;{k=1}^m(X&lt;/em&gt;{ijk}-\bar X&lt;em&gt;{i~\cdot}-\bar X&lt;/em&gt;{\cdot ~j}+\bar{\bar X})^2
+$$&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;变异来源&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;离差平方和&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;自由度df&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;均方&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;F值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;A因素&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SSA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;r-1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MSA=SSA/(r-1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;F_A=MSA/MSE&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;B因素&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SSB&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;s-1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MSB=SSB/(s-1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;F_B=MSB/MSE&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;误差&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SSE&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;n-r-s+1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MSE=SSE/(n-r-s+1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;合计&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SST&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;n-1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h5 id=&#34;有交互作用的双因素方差分析&#34;&gt;有交互作用的双因素方差分析&lt;/h5&gt;
+
+&lt;p&gt;$$
+SST=SSA+SSB+SSAB+SSE
+$$&lt;/p&gt;
+
+&lt;p&gt;其中：
+$$
+SSAB=M\sum&lt;em&gt;{i=1}^r\sum&lt;/em&gt;{j=1}^s(\bar X&lt;em&gt;{ij}-\bar X&lt;/em&gt;{i~\cdot}-\bar X_{\cdot ~j}+\bar{\bar X})^2
+$$&lt;/p&gt;
+
+&lt;p&gt;$$
+SSE=\sum&lt;em&gt;{i=1}^r\sum&lt;/em&gt;{j=1}^s\sum&lt;em&gt;{k=1}^m(X&lt;/em&gt;{ijk}-\bar X_{ij})^2
+$$&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;变异来源&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;离差平方和&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;自由度df&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;均方&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;F值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;A因素&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SSA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;r-1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MSA=SSA/(r-1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;F_A=MSA/MSE&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;B因素&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SSB&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;s-1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MSB=SSB/(s-1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;F_B=MSB/MSE&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;AB交互作用&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SSAB&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(r-1)(s-1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MSAB=SSAB/(r-1)(s-1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;F_AB=MSAB/MSE&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;误差&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SSE&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;rs(m-1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MSE=SSE/rs(m-1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;合计&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SST&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;n-1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&#34;9-双因素方差分析步骤&#34;&gt;9.双因素方差分析步骤&lt;/h4&gt;
+
+&lt;p&gt;（1）分析数据是否满足方差分析假设条件，不满足的话要先对数据进行变换。&lt;/p&gt;
+
+&lt;p&gt;（2）提出零假设和备择假设&lt;/p&gt;
+
+&lt;p&gt;a.说明因素A有无显著影响。
+$$
+H_0:\alpha_1=\alpha_2=\cdots =\alpha_r=0;H_1:\alpha_1,\alpha_2,\cdots,\alpha_r不全为0。
+$$
+b.说明因素B有无显著影响。
+$$
+H_0:\beta_1=\beta_2=\cdots =\beta_s=0;H_1:\beta_1,\beta_2,\cdots,\beta_s不全为0。
+$$
+c.说明A,B交互作用是否显著。
+$$
+H&lt;em&gt;0:(\alpha\beta)&lt;/em&gt;{11}=(\alpha\beta)&lt;em&gt;{12}=\cdots =（\alpha\beta)&lt;/em&gt;{rs}=0;H&lt;em&gt;1:(\alpha\beta)&lt;/em&gt;{11},(\alpha\beta)&lt;em&gt;{12},\cdots ,（\alpha\beta)&lt;/em&gt;{rs}不全为0。
+$$
+（3）计算F值或p值。&lt;/p&gt;
+
+&lt;p&gt;对F值，当计算值大于临界值时拒绝原假设。&lt;/p&gt;
+
+&lt;p&gt;对p值，当p&amp;lt;α时拒绝原假设。&lt;/p&gt;
+
+&lt;h3 id=&#34;第七章-相关与回归分析&#34;&gt;第七章  相关与回归分析&lt;/h3&gt;
+
+&lt;h4 id=&#34;1-函数关系和相关关系&#34;&gt;1.函数关系和相关关系&lt;/h4&gt;
+
+&lt;p&gt;变量之间的数量关系存在两种不同类型：函数关系和相关关系&lt;/p&gt;
+
+&lt;p&gt;函数关系：一个变量取一定数值，另一个变量有确定值与之对应。&lt;/p&gt;
+
+&lt;p&gt;相关关系：一个变量取一定数值，另一个变量的数值按一定规律变化。&lt;/p&gt;
+
+&lt;h4 id=&#34;2-相关关系类型&#34;&gt;2.相关关系类型&lt;/h4&gt;
+
+&lt;p&gt;相关方向：正相关、负相关&lt;/p&gt;
+
+&lt;p&gt;相关形式：线性相关、非线性相关&lt;/p&gt;
+
+&lt;p&gt;变量数量：单相关、复相关&lt;/p&gt;
+
+&lt;h4 id=&#34;3-相关关系的测度&#34;&gt;3.相关关系的测度&lt;/h4&gt;
+
+&lt;p&gt;（1）散点图&lt;/p&gt;
+
+&lt;p&gt;直观反映两个变量的相关关系。&lt;/p&gt;
+
+&lt;p&gt;（2）单相关系数&lt;/p&gt;
+
+&lt;p&gt;总体相关系数：
+$$
+\rho=-\frac{Cov(X,Y)}{\sqrt{Var(X)Var(Y)}}
+$$
+样本相关系数（总体相关系数的一致估计量）
+$$
+r=\frac{\sum(X_t-\bar X)(Y_t-\bar Y)}{\sqrt{\sum(X_t-\bar X)^2\sum (Y_t-\bar Y)^2}}
+&lt;br /&gt;
+=\frac{\sum X_tY_t-n\bar X\bar Y}{\sqrt{\sum(X_t-\bar X)^2\sum (Y_t-\bar Y)^2}}
+$$
+i. r的值介于-1到1之间&lt;/p&gt;
+
+&lt;p&gt;ii. 当r=0，表明X、Y不存在线性关系，但可能存在其他相关关系。&lt;/p&gt;
+
+&lt;p&gt;iii. 当|r|=0，表明X、Y为完全线性关系。&lt;/p&gt;
+
+&lt;p&gt;iv. 大多数情况下，0&amp;lt;|r|&amp;lt;1，即X、Y存在一定的线性关系。&lt;/p&gt;
+
+&lt;h4 id=&#34;4-相关系数的检验&#34;&gt;4.相关系数的检验&lt;/h4&gt;
+
+&lt;p&gt;样本的相关系数带有一定随机性，与样本容量有关，故需要对相关系数的显著性进行检验。&lt;/p&gt;
+
+&lt;p&gt;检验总体相关系数ρ是否等于0：
+$$
+t=\frac{r\sqrt{n-2}}{\sqrt{1-r^2}}
+$$
+若
+$$
+|t|&amp;gt;t&lt;em&gt;{\alpha/2}
+$$
+则r在统计上显著。若
+$$
+|t|\leq t&lt;/em&gt;{\alpha/2}
+$$
+则r在统计上不显著。&lt;/p&gt;
+
+&lt;h4 id=&#34;5-相关关系和因果关系&#34;&gt;5.相关关系和因果关系&lt;/h4&gt;
+
+&lt;p&gt;（1）因果关系：只要改变X的值，就会改变Y的值。&lt;/p&gt;
+
+&lt;p&gt;（2）相关关系：&lt;/p&gt;
+
+&lt;p&gt;i.直接相关。X导致Y。&lt;/p&gt;
+
+&lt;p&gt;ii.共同反应。X、Y都会随Z的改变而改变。&lt;/p&gt;
+
+&lt;p&gt;iii.交叉关系。X、Z可能同时影响Y，由于X与Z有关系，所以无法界定X对Y的直接影响。&lt;/p&gt;
+
+&lt;h4 id=&#34;6-一元线性回归函数&#34;&gt;6.一元线性回归函数&lt;/h4&gt;
+
+&lt;p&gt;回归：建立函数关系Y=F（X）的过程。&lt;/p&gt;
+
+&lt;p&gt;（1）总体回归函数
+$$
+Y_t=\beta _0+\beta _1X_t+u_t
+$$
+β为回归系数，是未知参数。u是随机误差项，又称随机干扰项，反映未列入方程式的其他因素对Y的影响。&lt;/p&gt;
+
+&lt;p&gt;（2）样本回归函数
+$$
+\hat Y_t=\hat \beta_0+\hat \beta_1X_t
+&lt;br /&gt;
+Y_t=\hat \beta_0+\hat \beta_1X_t+e_t
+$$
+et称为残差，X、Y为第t次的观测值。&lt;/p&gt;
+
+&lt;p&gt;（3）总体回归函数与样本回归函数的区别&lt;/p&gt;
+
+&lt;p&gt;i.总体函数未知，只有一条；样本回归函数根据样本数据拟合，抽取的样本数据不同，样本回归函数也不同。&lt;/p&gt;
+
+&lt;p&gt;ii.总体回归函数的回归系数是未知参数，为常数；而样本回归函数的回归系数是随机变量，根据选取样本数据变化。&lt;/p&gt;
+
+&lt;h4 id=&#34;7-一元线性回归模型的估计-参考计量经济学第三章&#34;&gt;7.一元线性回归模型的估计(参考计量经济学第三章)&lt;/h4&gt;
+
+&lt;p&gt;（1）统计假设
+$$
+i.E(u_t)=0
+&lt;br /&gt;
+ii.var(u_t)=E(u_t^2)=\sigma^2
+&lt;br /&gt;
+iii.t\neq s时，Cov(u_t,u_s)=E(u_tu_s)=0,即不存在序列相关关系。
+&lt;br /&gt;
+iv.Cov(X_t,u_t)=0,即自变量是确定取值，与随机误差项线性无关。
+&lt;br /&gt;
+v.u_t\sim N(0,\sigma^2)
+$$
+（2）普通最小二乘法&lt;/p&gt;
+
+&lt;p&gt;原理：使残差et项平方和最小。
+$$
+Q=\sum e_t^2=\sum(Y_t-\hat Y_t)^2=\sum(Y_t-\hat \beta_0-\hat \beta_1X_t)^2
+$$
+对Q求极小值，分别对两个β求偏导，使其等于0。整理后得：
+$$
+\hat \beta_1=\frac{n\sum X_tY_t-\sum X_t\sum Y_t}{n\sum X_t^2-(\sum X_t)^2}=\frac{\sum x_ty_t}{\sum x_t^2}
+&lt;br /&gt;
+\hat \beta_0=\sum \frac{Y_t}{n}-\hat \beta_1\sum \frac{X_t}{n}=\bar Y-\hat \beta_1 \bar X
+$$
+（3）理论依据&lt;/p&gt;
+
+&lt;p&gt;高斯-马尔可夫定理为用普通最小二乘法估计一元线性模型提供了理论依据。&lt;/p&gt;
+
+&lt;p&gt;即统计假设满足的情况下，回归系数的期望值等于回归系数的真值。此时回归系数的最小二乘估计量是BLUE（最优线性无偏估计量）和一致估计量。&lt;/p&gt;
+
+&lt;p&gt;注：并不意味着该方法每一个具体估计量都比其他方法计算出的具体估计值更接近回归系数真值，只是反复多次或扩大样本量计算估计量，接近真值的可能性最大。&lt;/p&gt;
+
+&lt;h4 id=&#34;8-一元线性回归模型的评价和检验&#34;&gt;8.一元线性回归模型的评价和检验&lt;/h4&gt;
+
+&lt;p&gt;理论意义检验：参数估计值的符号和取值区间&lt;/p&gt;
+
+&lt;p&gt;一级检验：统计学检验，包括拟合程度评价和显著性评价&lt;/p&gt;
+
+&lt;p&gt;二级检验：经济计量学检验，包括序列相关检验、异方差性检验等。&lt;/p&gt;
+
+&lt;h5 id=&#34;拟合优度的评价&#34;&gt;‘拟合优度的评价&lt;/h5&gt;
+
+&lt;p&gt;回归直线的拟合优度：回归直线与各观测数据的接近程度。&lt;/p&gt;
+
+&lt;p&gt;总离差：
+$$
+Y_t-\bar Y
+$$
+可由回归直线解释的部分：
+$$
+\hat Y-\bar Y
+$$
+不能由回归直线解释的部分（残差）：
+$$
+Y_t-\hat Y_t
+$$
+对下式两边求平方和：
+$$
+Y_t-\bar Y=(Y_t-\hat Y_t)+(\hat Y_t-\bar Y_t)
+&lt;br /&gt;
+\sum(Y_t-\bar Y)^2=\sum(Y_t-\hat Y_t)^2+\sum(\hat Y_t-\bar Y_t)^2+2\sum(Y_t-\hat Y_t)(\hat Y_t-\bar Y_t)
+&lt;br /&gt;
+由\sum(Y_t-\hat Y_t)(\hat Y_t-\bar Y_t)=0
+&lt;br /&gt;
+故\sum(Y_t-\bar Y)^2=\sum(Y_t-\hat Y_t)^2+\sum(\hat Y_t-\bar Y_t)^2
+&lt;br /&gt;
+即SST=SSE+SSR
+$$
+SST为总离差平方和，SSR为回归平方和，SSE为残差平方和。&lt;/p&gt;
+
+&lt;p&gt;同除以SST，得：
+$$
+1=\frac{SSR}{SST}+\frac{SSE}{SST}
+$$
+定义判定系数为：
+$$
+R^2=\frac{SSR}{SST}=\frac{\sum(\hat Y_t-\bar Y)^2}{\sum(Y_t-\bar Y)^2}=1-\frac{\sum(Y_t-\hat Y_t)^2}{\sum(Y_t-\bar Y)^2}=1-\frac{SSE}{SST}
+$$
+显然，R^2的取值范围是[0,1]，而R^2越大，残差和（SSE）越小，直线拟合程度越好。&lt;/p&gt;
+
+&lt;p&gt;在一元线性回归中:
+$$
+r^2=R^2
+$$
+r为相关系数，正负与回归系数β1同号。&lt;/p&gt;
+
+&lt;h5 id=&#34;估计标准差&#34;&gt;’估计标准差&lt;/h5&gt;
+
+&lt;p&gt;估计标准差是对随机误差项标准差的估计，计算公式为：
+$$
+s_y=\sqrt{\frac{\sum (Y_t-\hat Y_t)^2}{n-2}}=\sqrt{\frac{SSE}{n-2}}=\sqrt{MSE}
+$$
+其反映了用估计的回归方程预测因变量Y时预测误差的大小。sy越小，回归直线的代表性越好，预测也越准确。&lt;/p&gt;
+
+&lt;h5 id=&#34;显著性检验&#34;&gt;‘显著性检验&lt;/h5&gt;
+
+&lt;p&gt;分为对回归系数的的显著性检验（t检验）与对整个回归方程的检验（F检验）&lt;/p&gt;
+
+&lt;p&gt;i.对回归系数的显著性检验（t检验）&lt;/p&gt;
+
+&lt;p&gt;假设与统计量分别为：
+$$
+H_0：\beta_1=0~~~H_1:\beta_1\neq0
+&lt;br /&gt;
+t=\frac{\hat \beta_1-\beta&lt;em&gt;1}{s&lt;/em&gt;{\hat \beta&lt;em&gt;1} }
+&lt;br /&gt;
+其中s&lt;/em&gt;{\hat \beta_1}=\frac{s_y}{\sqrt{\sum X_i^2-\frac{1}{n}(\sum X_i)^2}}
+$$
+根据自由度df=n-2查找临界值t{α/2}，若|t|&amp;gt;t{α/2}，拒绝原假设，回归系数显著。&lt;/p&gt;
+
+&lt;p&gt;ii.对整个回归方程的检验（F检验）&lt;/p&gt;
+
+&lt;p&gt;在一元线性回归模型中，对β1=0的t检验等价于对整个方程的F检验。&lt;/p&gt;
+
+&lt;p&gt;此时的假设与检验统计量为：
+$$
+\beta_1=0
+&lt;br /&gt;
+F=\frac{SSR/1}{SSE/(n-2)}=\frac{MSR}{MSE}\sim F(1,n-2)
+\此处为F（p,n-p-1）
+$$
+此处根据df1=1,df2=n-2查F分布表，找出相应的临界值Fα，若F&amp;gt;Fα，拒绝原假设，两变量之间线性关系显著。&lt;/p&gt;
+
+&lt;h5 id=&#34;利用回归方程进行预测-刘扬p129&#34;&gt;‘利用回归方程进行预测（刘扬P129）&lt;/h5&gt;
+
+&lt;p&gt;Sig.的值小于α（显著性水平），拒绝原假设。&lt;/p&gt;
+
+&lt;p&gt;R为R^2正的平方根，|r|=R，故Y与X的相关系数绝对值为|r|，正负与估计的回归系数一致。&lt;/p&gt;
+
+&lt;p&gt;判定系数R^2=SSR/SST的统计含义（P131）：&lt;/p&gt;
+
+&lt;p&gt;在因变量的离差中，有100R^2%可以由线性回归方程解释；&lt;/p&gt;
+
+&lt;p&gt;在因变量的变动中，有100R^2%是由自变量决定的。&lt;/p&gt;
+
+&lt;p&gt;估计标准误sy的统计含义：&lt;/p&gt;
+
+&lt;p&gt;根据自变量对因变量进行估计时，平均估计误差为sy。&lt;/p&gt;
+
+&lt;h4 id=&#34;9-多元线性回归模型及参数估计&#34;&gt;9.多元线性回归模型及参数估计&lt;/h4&gt;
+
+&lt;p&gt;除一元线性回归模型的五项假设，还包括：&lt;/p&gt;
+
+&lt;p&gt;（1）p+1&amp;lt;n&lt;/p&gt;
+
+&lt;p&gt;（2）各变量间不存在严格的线性关系
+$$
+Y_t=\beta_0+\beta&lt;em&gt;1X&lt;/em&gt;{1t}+\beta&lt;em&gt;2X&lt;/em&gt;{2t}+&amp;hellip;\beta&lt;em&gt;pX&lt;/em&gt;{pt}+u_t
+$$
+  估计的多元线性方程一般形式为：
+$$
+Y_t=\hat\beta_0+\hat\beta&lt;em&gt;1X&lt;/em&gt;{1t}+\hat\beta&lt;em&gt;2X&lt;/em&gt;{2t}+&amp;hellip;\hat\beta&lt;em&gt;pX&lt;/em&gt;{pt}
+$$
+betai称为偏回归系数，表示当其他变量不变时，Xi每变动一个单位因变量的平均变动量。&lt;/p&gt;
+
+&lt;h4 id=&#34;10-回归方程的拟合优度&#34;&gt;10.回归方程的拟合优度&lt;/h4&gt;
+
+&lt;h5 id=&#34;修正判定系数&#34;&gt;‘修正判定系数&lt;/h5&gt;
+
+&lt;p&gt;判定系数与一元线性方程相同：
+$$
+R^2=\frac{SSR}{SST}=\frac{\sum(\hat Y_t-\bar Y)^2}{\sum(Y_t-\bar Y)^2}=1-\frac{\sum(Y_t-\hat Y_t)^2}{\sum(Y_t-\bar Y)^2}=1-\frac{SSE}{SST}
+$$
++√（R^2）为复相关系数。&lt;/p&gt;
+
+&lt;p&gt;样本容量一定时，SST与自变量个数p无关，但p增加可能会使预测误差减小，从而SSE减小（至少不会增加）。多元线性模型包含的自变量个数不一定相同，故R2不适合用于衡量优劣，引入修正自由度的判定系数：
+$$
+R_a^2=1-(1-R^2)\times \frac{n-1}{n-p-1}
+$$&lt;/p&gt;
+
+&lt;h5 id=&#34;估计标准误&#34;&gt;’估计标准误&lt;/h5&gt;
+
+&lt;p&gt;估计标准误是对误差项ut方差的估计值：
+$$
+s_y=\sqrt{\frac{\sum (y_i-\hat y_i)^2}{n-p-1}}=\sqrt{\frac{SSE}{n-p-1}}=\sqrt{MSE}
+$$
+含义：根据自变量Xi来预测因变量y时的平均误差。&lt;/p&gt;
+
+&lt;h4 id=&#34;11-显著性分析&#34;&gt;11.显著性分析&lt;/h4&gt;
+
+&lt;h5 id=&#34;线性关系检验-f检验&#34;&gt;‘线性关系检验（F检验）&lt;/h5&gt;
+
+&lt;p&gt;提出假设：
+$$
+H_0：\beta_1=&amp;hellip;=\beta_P=0~~~~~H_1:\beta_1,\beta_2,&amp;hellip;,\beta_P至少有一个不为0
+$$
+检验统计量：
+$$
+F=\frac{SSR/p}{SSE/(n-p-1)}\sim F(p,n-p-1)
+$$
+F&amp;gt;Fα(临界值)，或p&amp;lt;α，拒绝原假设。&lt;/p&gt;
+
+&lt;h5 id=&#34;回归系数的检验-t检验&#34;&gt;’回归系数的检验（t检验）&lt;/h5&gt;
+
+&lt;p&gt;提出假设：
+$$
+H_0：\beta_i=0~~~~~H_1:\beta_i\neq0
+$$
+检验统计量：
+$$
+t_i=\frac{\hat \beta_i-\beta&lt;em&gt;i}{s&lt;/em&gt;{\hat \beta&lt;em&gt;i}}\sim t(n-p-1)
+&lt;br /&gt;
+s&lt;/em&gt;{\hat \beta_i}=\frac{s_y}{\sqrt{\sum X_i^2-\frac{1}{n}(\sum X_i)^2}}
+$$
+若|t|&amp;gt;t{α/2}(临界值)，拒绝原假设。&lt;/p&gt;
+
+&lt;h4 id=&#34;12-非线性回归分析&#34;&gt;12.非线性回归分析&lt;/h4&gt;
+
+&lt;h5 id=&#34;主要函数类型&#34;&gt;‘主要函数类型&lt;/h5&gt;
+
+&lt;p&gt;（1）抛物线函数
+$$
+Y=a+bX+CX^2
+$$
+判断是否适用抛物线函数，计算：
+$$
+\triangle X_t=X&lt;em&gt;t-X&lt;/em&gt;{t-1}
+&lt;br /&gt;
+\triangle Y_t=Y&lt;em&gt;t-Y&lt;/em&gt;{t-1}
+&lt;br /&gt;
+\triangle ^2Y_{t}=\triangle Y&lt;em&gt;t-\triangle Y&lt;/em&gt;{t-1}
+&lt;br /&gt;
+若△X_t与|△^2Y_t|均接近常数，则Y、X的关系近似于抛物线方程。
+$$
+（2）双曲线函数
+$$
+Y=a+\frac{b}{X}
+$$
+Y随X同增同减，起初增加（减少）很快，后期放缓并趋于稳定。&lt;/p&gt;
+
+&lt;p&gt;（3）幂函数
+$$
+Y=aX_1^{b_1}X_2^{b_2}&amp;hellip;X_k^{b_k}
+$$
+可直接反映Y对某一个自变量的弹性。&lt;/p&gt;
+
+&lt;p&gt;（4）指数函数
+$$
+Y=ab^x
+$$
+广泛用于描述客观现象的变动趋势。&lt;/p&gt;
+
+&lt;p&gt;（5）对数函数
+$$
+Y=a+blnx
+$$
+随x增大，X的单位变动对因变量Y的影响效果不断递减。&lt;/p&gt;
+
+&lt;p&gt;（6）S形曲线函数
+$$
+Y=\frac{L}{1+ae^{-bx}}
+$$
+又称为逻辑曲线，Y为X的非减函数，开始随X增长，Y增长加快，当Y到达一定水平，增长速度放慢，之后趋近于L。&lt;/p&gt;
+
+&lt;h5 id=&#34;逐步回归-借助spss计算&#34;&gt;’逐步回归（借助SPSS计算）&lt;/h5&gt;
+
+&lt;p&gt;多元线性回归方程中不一定所有的自变量的系数都显著。&lt;/p&gt;
+
+&lt;p&gt;（1）向前引入法&lt;/p&gt;
+
+&lt;p&gt;分别计算各自变量对因变量贡献的大小按次序逐个加入从而建立最优回归方程。当加入其余变量不能使得方程更优时停止。&lt;/p&gt;
+
+&lt;p&gt;（2）向后剔除法&lt;/p&gt;
+
+&lt;p&gt;从包含自变量的全部模型开始，逐步把不显著的变量剔除出去。直到剔除任一变量不能使得方程更优时停止。&lt;/p&gt;
+
+&lt;p&gt;（3）逐步引入-剔除法&lt;/p&gt;
+
+&lt;p&gt;先按照向前引入法的原则选择较好的自变量进入，再按照向后剔除法剔除不合标准的自变量，如此反复。&lt;/p&gt;
+
+&lt;h4 id=&#34;13-违背回归模型统计假设的后果与补救方法&#34;&gt;13.违背回归模型统计假设的后果与补救方法&lt;/h4&gt;
+
+&lt;h5 id=&#34;异方差-参考计量经济学陈强第7章&#34;&gt;‘异方差（参考计量经济学陈强第7章）&lt;/h5&gt;
+
+&lt;p&gt;随机误差项的方差不为常数
+$$
+Var(u_t)=\sigma^2
+$$
+此时回归模型估计量不再具有最小方差性质，即不再具有有效性。&lt;/p&gt;
+
+&lt;p&gt;可以采用以下方法对异方差进行假设检验：帕克检验法、斯皮尔曼等级相关检验法、怀特检验法、戈德弗尔德-匡特检验法、格里瑟检验法、布鲁奇-帕根检验法。&lt;/p&gt;
+
+&lt;p&gt;一旦检验处异方差，需要对模型进行变换，使经过变幻的模型具有同方差性，通常有以下方法：&lt;/p&gt;
+
+&lt;p&gt;（1）OLS+稳健标准误&lt;/p&gt;
+
+&lt;p&gt;只要样本容量较大，即使在异方差的情况下，若使用稳健标准误，则所有参数估计、假设检验均可照常进行。&lt;/p&gt;
+
+&lt;p&gt;（2）广义最小二乘法GLS
+$$
+Var(\epsilon|X)=\sigma^2V(X)\neq \sigma^2 I_n，V(X)为对称正定矩阵，故存在V^{-1}(X)=C&amp;rsquo;C
+$$
+原方程左乘C，变换后：
+$$
+Var(\tilde\epsilon|\tilde X)=\sigma^2 I&lt;em&gt;n
+&lt;br /&gt;
+\hat \beta&lt;/em&gt;{GLS}=(X&amp;rsquo;V^{-1}X)^{-1}X&amp;rsquo;V^{-1}y
+$$
+（3）加权最小二乘WLS:&lt;/p&gt;
+
+&lt;p&gt;假定：
+$$
+E(\epsilon_i ^2|x_i)=Var(\epsilon_i|x_i)=\sigma^2v_i(X)
+&lt;br /&gt;
+根据信息量大小进行加权&lt;br /&gt;
+v= \left[ \begin{matrix} v_1 &amp;amp; &amp;amp;&amp;amp;0\  &amp;amp; v_2\ &amp;amp;&amp;amp;&amp;hellip;\0&amp;amp;&amp;amp;&amp;amp;v_n\end{matrix}\right]
+&lt;br /&gt;
+新扰动项为\frac{\epsilon_i}{\sqrt{v&lt;em&gt;i}}&lt;br /&gt;
+min~~SSR=\sum^n&lt;/em&gt;{i=1}(\frac{\epsilon_i}{\sqrt{v&lt;em&gt;i}})^2=\sum^n&lt;/em&gt;{i=1}(\frac{\epsilon_i^2}{v_i})
+$$&lt;/p&gt;
+
+&lt;h5 id=&#34;序列相关&#34;&gt;’序列相关&lt;/h5&gt;
+
+&lt;p&gt;$$
+当t\neq s,Cov(u_t,u_s)\neq0
+$$&lt;/p&gt;
+
+&lt;p&gt;此时普通最小二乘估计量仍为无偏估计量，但不具有最小方差性质，显著性检验也失效。&lt;/p&gt;
+
+&lt;p&gt;检验序列相关的方法：德宾-沃森检验法，拉格朗日乘数法等。&lt;/p&gt;
+
+&lt;h5 id=&#34;多重共线性&#34;&gt;‘多重共线性&lt;/h5&gt;
+
+&lt;p&gt;两个或多个解释变量高度线性相关，即存在不全为0的常数：
+$$
+C_0+C_1X_1+&amp;hellip;C_kX_p=0
+$$
+估计值精度会大大降低；解释变量对被解释变量的影响也无法测定；回归系数的显著性检验，也会增大取伪的概率。&lt;/p&gt;
+
+&lt;p&gt;判断多重共线性：（1）估计值的符号明显违背经济常理，或重要的解释变量t值小但模型R较大。&lt;/p&gt;
+
+&lt;p&gt;（2）VIF(方差膨胀因子)：一般VIF超过5，认为有严重多重共线性存在。&lt;/p&gt;
+
+&lt;p&gt;解决思路：加入额外信息（增加样本容量、施加约束条件、删除若干共线解释变量）；采用岭回归等方法估计模型系数。&lt;/p&gt;
+
+&lt;h3 id=&#34;第八章-时间序列分析&#34;&gt;第八章  时间序列分析&lt;/h3&gt;
+
+&lt;h4 id=&#34;1-时间序列分解&#34;&gt;1.时间序列分解&lt;/h4&gt;
+
+&lt;p&gt;时间序列分析方法：数据图法、指标法、模型法&lt;/p&gt;
+
+&lt;p&gt;（1）长期趋势（Tt）：朝着一定的方向持续上升或下落，或停留在某一水平上的倾向。&lt;/p&gt;
+
+&lt;p&gt;（2）季节变动（St）：一年或更短时间内受某种固定周期性因素的影响而呈现出有规律的周期性波动。&lt;/p&gt;
+
+&lt;p&gt;（3）循环变动（Ct）：通常为周期一年以上的有规律波动。周期长短不一，变动的规律性和稳定性较差。&lt;/p&gt;
+
+&lt;p&gt;（4）不规则变动（It）：由于偶然事件引起的变动。&lt;/p&gt;
+
+&lt;h4 id=&#34;2-时间序列分解模型&#34;&gt;2.时间序列分解模型&lt;/h4&gt;
+
+&lt;p&gt;（1）加法模型
+$$
+Y_t=T_t+S_t+C_t+I_t
+$$
+四种成分相互独立，某种成分变动并不影响其他成分的变动，各成分用绝对量表示，量纲相同。&lt;/p&gt;
+
+&lt;p&gt;（2）乘法模型
+$$
+Y_t=T_t\times S_t\times C_t\times I_t
+$$
+四种成分相互依存，长期趋势T用绝对量表示，量纲与时间序列本身相同，其他成分用相对量表示。&lt;/p&gt;
+
+&lt;p&gt;（3）加乘混合模型&lt;/p&gt;
+
+&lt;p&gt;需要考虑现象变化与数据本身特征。&lt;/p&gt;
+
+&lt;h4 id=&#34;3-时间序列长期趋势分析&#34;&gt;3.时间序列长期趋势分析&lt;/h4&gt;
+
+&lt;h5 id=&#34;移动平均法&#34;&gt;‘移动平均法&lt;/h5&gt;
+
+&lt;p&gt;求连续若干期的平均数作为某一期的趋势值，逐步移动得到一系列移动平均数。一次N期移动平均的计算公式为：
+$$
+M_t^{(1)}=\frac{1}{N}(Y&lt;em&gt;t+Y&lt;/em&gt;{t-1}+&amp;hellip;+Y_{t-N-1})
+$$
+平均期数为N。此时短期偶然因素引起的变动被削弱。可以作为作为最近一期的趋势值，也可以作为N期中间一期的趋势值（中心化移动平均）。&lt;/p&gt;
+
+&lt;p&gt;N为偶数时，中心化移动平均需要进行N+1项移动平均：
+$$
+M_{t-N/2}^{(1)}=\frac{1}{N}(0.5Y&lt;em&gt;t+Y&lt;/em&gt;{t-1}+&amp;hellip;+Y&lt;em&gt;{t-N-1}+0.5Y&lt;/em&gt;{t-N})
+$$&lt;/p&gt;
+
+&lt;h5 id=&#34;时间回归法&#34;&gt;’时间回归法&lt;/h5&gt;
+
+&lt;p&gt;当时间序列明显包含某种确定性趋势时，用时间回归法描述其变化趋势。&lt;/p&gt;
+
+&lt;p&gt;常用模型：&lt;/p&gt;
+
+&lt;p&gt;（1）线性方程
+$$
+\hat Y_t=a+bt
+$$
+（2）二次曲线
+$$
+\hat Y_t=a+bt+ct^2
+$$
+（3）指数曲线
+$$
+\hat Y_t=ab^t
+$$
+（4）修正指数曲线
+$$
+\hat Y_t=K+ab^t(K&amp;gt;0,a\neq0,0&lt;b\neq 1)
+$$
+（5）Compertz(龚帕兹)曲线
+$$
+\hat Y_t=Ka^{b^t}(K&gt;0,0&lt;a\neq1,0&lt;b\neq 1)
+$$
+（6）Logistic(逻辑斯谛)曲线
+$$
+\hat Y_t=\frac{1}{K+ab^t}(K&gt;0,a&amp;gt;0,0&amp;lt;b\neq 1)
+$$
+（7）振动曲线
+$$
+\hat Y_t=f(t)+Acos(\omega t +\phi)
+$$&lt;/p&gt;
+
+&lt;p&gt;可以根据数据图直接观察数据变化的趋势特征选择，也可以拟合几个模型以后比较判定系数R2。&lt;/p&gt;
+
+&lt;h4 id=&#34;4-时间序列季节变动分析&#34;&gt;4.时间序列季节变动分析&lt;/h4&gt;
+
+&lt;p&gt;先需要从原时间序列中提出可能存在的长期趋势。&lt;/p&gt;
+
+&lt;p&gt;用移动平均剔除法：&lt;/p&gt;
+
+&lt;p&gt;（1）先进行N期中心化移动平均值，得到反映长期趋势的移动平均序列。&lt;/p&gt;
+
+&lt;p&gt;（2）原时间序列除以相应的中心化移动平均值（2），得到剔除长期趋势的时间序列。&lt;/p&gt;
+
+&lt;p&gt;（3）计算剔除长期趋势后时间序列（3）的同期平均值（同月或同季度），即未调整的季节指数。&lt;/p&gt;
+
+&lt;p&gt;（4）用未调整的季节指数除以剔除长期趋势后的时间序列（2）的总平均值。&lt;/p&gt;
+
+&lt;h4 id=&#34;5-时间序列循环变动分析&#34;&gt;5.时间序列循环变动分析&lt;/h4&gt;
+
+&lt;p&gt;应用于经济周期波动和商业景气循环研究。用剩余法测定循环变动（以乘法模型为例）：
+$$
+C_t\times I_t=\frac{Y_t}{T_t\times S_t}
+$$
+先求出时间序列Y的长期趋势T和季节指数S，再除去长期趋势和季节变动，最后用移动平均法除去不规则变动I，就能得到循环变动C。&lt;/p&gt;
+
+&lt;h4 id=&#34;6-时间序列分解预测法&#34;&gt;6.时间序列分解预测法&lt;/h4&gt;
+
+&lt;p&gt;利用结构模型对未来取值进行预测。分解预测法先将序列中的各种非随机成分分离出来，分别进行预测，再将各部分预测值合成总的预测值。&lt;/p&gt;
+
+&lt;p&gt;（1）对原时间序列进行N期中心化移动平均，求得TC。&lt;/p&gt;
+
+&lt;p&gt;（2）将原时间序列各观测值除以相应中心化移动平均值，得到SI。&lt;/p&gt;
+
+&lt;p&gt;（3）计算SI的同期平均值，消除不规则影响，得到S，反映季节变动。&lt;/p&gt;
+
+&lt;p&gt;（4）对TC用时间回归法建立合适的模型，得到T。&lt;/p&gt;
+
+&lt;p&gt;（5）从TC中分离出T，得到C。&lt;/p&gt;
+
+&lt;p&gt;（6）合成预测值：
+$$
+\hat Y&lt;em&gt;{t+l}=\hat T&lt;/em&gt;{t+l}S&lt;em&gt;{t+l}C&lt;/em&gt;{t+l}
+$$
+T由（4）得到，S可用同期季节指数代替，C可以用半定量化方法预测（根据分离出的C的变化趋势，主观判断C的预测值）。&lt;/p&gt;
+
+&lt;h4 id=&#34;7-指数平滑&#34;&gt;7.指数平滑&lt;/h4&gt;
+
+&lt;p&gt;指数平滑是一种加权移动平均，可以描述时间序列的趋势，也可以用来预测。&lt;/p&gt;
+
+&lt;h5 id=&#34;单参数-一次-指数平滑&#34;&gt;‘单参数（一次）指数平滑&lt;/h5&gt;
+
+&lt;p&gt;$$
+F_t=aY&lt;em&gt;t+(1-a)F&lt;/em&gt;{t-1}
+&lt;br /&gt;
+\hat Y_{t+1}=F_t
+$$&lt;/p&gt;
+
+&lt;p&gt;Ft是第t期的平滑值，Yt是第t期的实际观测值，a为平滑系数。
+$$
+F_1=Y_1
+&lt;br /&gt;
+\hat Y_2=aY&lt;em&gt;1+(1-a)F&lt;/em&gt;{1}=aY&lt;em&gt;1+(1-a)Y&lt;/em&gt;{1}=Y_1
+&lt;br /&gt;
+\hat Y_3=aY&lt;em&gt;2+(1-a)F&lt;/em&gt;{2}=aY&lt;em&gt;2+(1-a)Y&lt;/em&gt;{1}
+&lt;br /&gt;
+\hat Y_4=aY&lt;em&gt;3+(1-a)F&lt;/em&gt;{3}=aY&lt;em&gt;3+a(1-a)Y&lt;/em&gt;{2}+(1-a)^2Y&lt;em&gt;1
+$$
+推得：
+$$
+\hat Y&lt;/em&gt;{t+1}=\sum &lt;em&gt;{k=1}^{\infin}a(1-a)^kY&lt;/em&gt;{t-k}
+&lt;br /&gt;
+\sum _{k=1}^{\infin}a(1-a)^k=1
+$$
+序列波动小，a值应取小一些，使得不同时期的数据权数差别小一些，使预测模型能包含更多历史数据的信息。&lt;/p&gt;
+
+&lt;p&gt;一般用前半段历史数据建立预测模型，后半段用于事后预测，以事后预测误差平方和为评价标准，确定最佳a值。&lt;/p&gt;</description>
     </item>
     
     <item>
